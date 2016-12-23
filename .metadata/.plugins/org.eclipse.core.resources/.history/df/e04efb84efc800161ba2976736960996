@@ -1,0 +1,5 @@
+package org.restproject.messenger.service;
+
+public class MessageService {
+
+}

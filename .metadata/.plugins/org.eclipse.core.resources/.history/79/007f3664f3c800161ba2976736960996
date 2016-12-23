@@ -1,0 +1,20 @@
+package org.restproject.messenger.resources;
+
+import javax.ws.rs.GET;
+import javax.ws.rs.Path;
+import javax.ws.rs.Produces;
+import javax.ws.rs.core.MediaType;
+
+import org.restproject.messenger.service.MessageService;
+
+@Path("/messages")
+public class MessageResources {
+	MessageService messageService;
+	
+	@GET
+    @Produces(MediaType.TEXT_PLAIN)
+	public String getMessages() {
+		return "hello World";
+	}
+	
+}
