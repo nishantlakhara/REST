@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;org.restproject.messenger.resources.MessageResources.java&apos; to &apos;MessageResource.java&apos;&#x0A;- Original project: &apos;messenger&apos;&#x0A;- Original element: &apos;org.restproject.messenger.resources.MessageResources.java&apos;&#x0A;- Renamed element: &apos;org.restproject.messenger.resources.MessageResource.java&apos;" description="Rename compilation unit &apos;MessageResources.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java&lt;org.restproject.messenger.resources{MessageResources.java" name="MessageResource.java" references="false" stamp="1482499630667" version="1.0"/>
+</session>
