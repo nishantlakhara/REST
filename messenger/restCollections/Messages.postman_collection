@@ -8,7 +8,8 @@
 		"2f59e526-208b-15a6-dcba-8d3ffb942504",
 		"35f938d0-7252-facb-603d-f923641358be",
 		"0365d1e0-3d23-7650-cbbd-38638b286acd",
-		"d70253ec-e28b-fb54-5330-8bdf9eaacefe"
+		"d70253ec-e28b-fb54-5330-8bdf9eaacefe",
+		"980f90f9-d3e0-95ce-3855-49dbe97f2d28"
 	],
 	"folders": [],
 	"timestamp": 1483006575195,
@@ -118,6 +119,26 @@
 			"currentHelper": "normal",
 			"helperAttributes": {},
 			"rawModeData": "{\n    \"author\": \"lakhara\",\n    \"created\": \"2016-12-29T15:45:43.752\",\n    \"message\": \"Hello World\"\n  }"
+		},
+		{
+			"id": "980f90f9-d3e0-95ce-3855-49dbe97f2d28",
+			"headers": "//Content-Type: application/json\nauthSessionID: dhfajkhfjkdafkadf\nCookie: name=value1\n",
+			"url": "http://localhost:8080/messenger/webapi/injectdemo/annotations;param=param1",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "GET",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1483008740570,
+			"name": "Additional Params Messages GET",
+			"description": "Additional Params",
+			"collectionId": "9e6afe8b-d1fc-bcd5-261a-501bff2c84ac",
+			"responses": [],
+			"rawModeData": "{\n  \"author\": \"chirag\",\n  \"created\": \"2016-12-29T13:06:05.444\",\n  \"message\": \"Hello Jersey\"\n}"
 		},
 		{
 			"id": "d70253ec-e28b-fb54-5330-8bdf9eaacefe",
