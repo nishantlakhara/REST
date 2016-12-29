@@ -1,8 +1,0 @@
-package org.restproject.messenger.resources;
-
-public class MessageResources {
-	
-	public String getMessages() {
-		return "hello World";
-	}
-}
