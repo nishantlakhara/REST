@@ -1,2 +1,4 @@
 http://localhost:8080/messenger/webapi/profiles/nishant
 http://localhost:8080/messenger/webapi/messages
+http://localhost:8080/messenger/webapi/myresource
+
